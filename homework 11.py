@@ -1,7 +1,7 @@
 
 try:
     a = int(input("Введите число, которое делим  "))
-    b = 105
+    b = "Hello"
     c = a + b
 except TypeError:
     print("Упс, что то пошло не так")
